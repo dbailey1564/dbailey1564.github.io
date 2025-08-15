@@ -1,6 +1,6 @@
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open('rollit-cache-v1').then((cache) => {
+    caches.open('rollet-cache-v1').then((cache) => {
       return cache.addAll(['index.html', 'manifest.webmanifest', 'icon-192.png']);
     })
   );
