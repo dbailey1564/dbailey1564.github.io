@@ -1,4 +1,4 @@
-Roll-It PWA – Mobile-Ready Version
+Roll-et PWA – Mobile-Ready Version
 
 📱 How to Use:
 1. Unzip and host the files on any HTTPS-enabled web server.
