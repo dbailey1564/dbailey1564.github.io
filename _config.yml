@@ -1,0 +1,8 @@
+title: "Roll'et"
+description: "Roulette like dice game that uses a d20"
+theme: jekyll-theme-midnight
+author: dbailey1564
+
+markdown: kramdown
+permalink: pretty
+show_downloads: false
